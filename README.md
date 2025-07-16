@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **CRM Project**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **React , Node Js ,**
+- 💬 Ask me about **React, Node.js, TypeScript, JavaScript, AWS Services**
 
 - 📫 How to reach me **natasha.maryam2003@gmail.com**
 
