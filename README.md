@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **React, Node.js, TypeScript, JavaScript, AWS Services**
+- 💬 Ask me about **React, Node.js, TypeScript, JavaScript, AWS Services, Twillio Integration**
 
 - 📫 How to reach me **natasha.maryam2003@gmail.com**
 
